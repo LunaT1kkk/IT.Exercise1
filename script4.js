@@ -94,7 +94,7 @@ let itog = factorial(1, fact);
 document.write(fact + "! = " + itog);
 
 //Задание 5
-document.write("<h2>Задание 4.5:</h2>");
+document.write("<h2>Задание 4.5:</h2>Вывод происходит в консоль");
 
 function sort(mas, par){
     for(let i = 1; i < mas.length; i++){
